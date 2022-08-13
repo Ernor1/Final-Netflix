@@ -37,6 +37,13 @@ body {
     border: 1px solid white;
 }
 
+form button {
+    width: 0;
+    height: 0;
+    border: none;
+    background: none;
+}
+
 .login-box .par {
     display: flex;
     justify-content: center;
